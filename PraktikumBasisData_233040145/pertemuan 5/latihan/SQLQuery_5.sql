@@ -1,5 +1,5 @@
 INSERT INTO dosen_wali (nip, nama)
-VALUES ('2330171', 'Dhiaul'),
+VALUES ('23304145', 'Putra'),
 ('465446', 'rama'),
 ('432432', 'rafi'),
 ('5234534' 'aufa'),
